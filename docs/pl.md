@@ -1,7 +1,7 @@
 Ogólne
 ======
 
-Batflat to polski system zarządzania treścią, który jest prosty, lekki i szybki. Po raz pierwszy został wydany w maju 2016. Darmowa wersja aplikacji jest udostępniona w ramach [licencji](/license), która wymaga pozostawienia informacji o autorach oraz linku zwrotnego. Batflat sprawdza się świetnie podczas tworzenia małych serwisów, takich jak wizytówki firmowe, portfolia, blogi czy strony domowe. Dzięki tej dokumentacji dowiesz się jak go zainstalować, skonfigurować, a także jak tworzyć własne moduły i motywy.
+A to polski system zarządzania treścią, który jest prosty, lekki i szybki. Po raz pierwszy został wydany w maju 2016. Darmowa wersja aplikacji jest udostępniona w ramach [licencji](/license), która wymaga pozostawienia informacji o autorach oraz linku zwrotnego. Batflat sprawdza się świetnie podczas tworzenia małych serwisów, takich jak wizytówki firmowe, portfolia, blogi czy strony domowe. Dzięki tej dokumentacji dowiesz się jak go zainstalować, skonfigurować, a także jak tworzyć własne moduły i motywy.
 
 Dokumentacja została podzielona na kilka sekcji. Pierwsza dotyczy ogólnych instrukcji, druga jest skierowana do web designerów, a dwie ostatnie do web deweloperów.
 
@@ -28,7 +28,7 @@ Konfiguracja PHP musi posiadać następujące rozszerzenia:
 Instalacja
 -----------
 
-Na początek należy pobrać najnowszą wersję [Batflata](http://feed.sruu.pl/batflat/download/latest).
+Na początek należy pobrać najnowszą wersję [Batflata](http://feed.sruu.pl/a/download/latest).
 
 Wypakuj wszystkie pliki ze skompresowanej paczki, a następnie przenieś je do katalogu lokalnego lub zdalnego serwera. W przypadku serwera zdalnego, należy połączyć się z nim poprzez klienta (S)FTP, np. darmowym programem [FileZilla](https://filezilla-project.org). Zazwyczaj pliki należy wgrać do folderu `www`, `htdocs` lub `public_html`.
 
