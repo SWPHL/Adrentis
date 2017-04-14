@@ -1,11 +1,11 @@
-Batflat
+A
 =======
 
 This repository is used to report bugs and to list available languages, themes and modules. To download the CMS go to the project page.
 
 ## Project page
 
-https://batflat.org
+A
 
 ## Supported languages
 * English
